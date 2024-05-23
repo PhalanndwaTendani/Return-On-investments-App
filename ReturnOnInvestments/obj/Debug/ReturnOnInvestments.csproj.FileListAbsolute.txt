@@ -1,0 +1,8 @@
+T:\ReturnOnInvestments\bin\Debug\ReturnOnInvestments.exe.config
+T:\ReturnOnInvestments\bin\Debug\ReturnOnInvestments.exe
+T:\ReturnOnInvestments\bin\Debug\ReturnOnInvestments.pdb
+T:\ReturnOnInvestments\obj\Debug\ReturnOnInvestments.csproj.AssemblyReference.cache
+T:\ReturnOnInvestments\obj\Debug\ReturnOnInvestments.csproj.SuggestedBindingRedirects.cache
+T:\ReturnOnInvestments\obj\Debug\ReturnOnInvestments.csproj.CoreCompileInputs.cache
+T:\ReturnOnInvestments\obj\Debug\ReturnOnInvestments.exe
+T:\ReturnOnInvestments\obj\Debug\ReturnOnInvestments.pdb
